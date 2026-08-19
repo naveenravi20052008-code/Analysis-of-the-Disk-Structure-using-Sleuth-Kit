@@ -59,21 +59,37 @@ icat -f fat -o 0 disk.dd 4 > recovered_evidence.txt
 ## OUTPUT:
 
 1.Disk Image creation:
+
 <img width="683" height="542" alt="Screenshot 2026-08-19 154958" src="https://github.com/user-attachments/assets/7fe2b8d9-c81f-4ae2-986e-fa470afbbd48" />
 
+
+
 2.File Sytem Creation:
+
 <img width="699" height="565" alt="Screenshot 2026-08-19 155116" src="https://github.com/user-attachments/assets/5793fe9b-ffb2-45a3-9412-9611e4976bdb" />
 
+
+
 3.Partion/Disk structure Analysis:
+
 <img width="687" height="628" alt="Screenshot 2026-08-19 155313" src="https://github.com/user-attachments/assets/b91bb104-09c0-4b60-93c5-6e4c0c3d640b" />
 
+
+
 4.File System Analysis:
+
 <img width="683" height="567" alt="image" src="https://github.com/user-attachments/assets/9b7a1b68-899e-4ff8-b754-56eddae4737b" />
 
+
+
 5.File Listing:
+
 <img width="678" height="539" alt="image" src="https://github.com/user-attachments/assets/38f76257-b938-4c7b-88b1-1bf03278d657" />
 
+
+
 6.File Recovery:
+
 <img width="666" height="530" alt="image" src="https://github.com/user-attachments/assets/a76181e3-92b4-442b-828a-9fd724775187" />
 
 
